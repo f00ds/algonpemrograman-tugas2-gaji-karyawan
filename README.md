@@ -1,6 +1,6 @@
 # Program Perhitungan Gaji Karyawan (Java)
 
-Program ini dibuat untuk memenuhi **Tugas 2** sesuai instruksi dan flowchart yang diberikan dosen.  
+Program ini dibuat untuk memenuhi **Tugas 2** sesuai instruksi dan flowchart yang telah dibuat.  
 Program menggunakan bahasa pemrograman **Java**, memanfaatkan **operator**, **statement IF**, dan menerima input berupa **Golongan Karyawan** serta **Jam Lembur**.
 
 ---
